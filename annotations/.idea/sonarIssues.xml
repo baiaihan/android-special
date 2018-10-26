@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../627/yesway-android-master/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../627/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../627/yesway-android-master/basiclibrary/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../627/yesway-android-master/basiclibrary/src/main/java/com/yesway/basiclibrary/mvp/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/build/intermediates/res/merged/debug/layout/fragment_car_store_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/MainApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/acuraapi/AcuraApiManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/acuraapi/CarStoreApiUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/acuraapi/IAcuraApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/acuraapi/httpentity/request/VersionInfoQueryRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/db/ConstantDb.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/db/YcarStoreDbDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/moudle/IMainPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/moudle/MainModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/moudle/MainPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/moudle/home/view/CarStoreHomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/moudle/store/modle/CheckVersionModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/moudle/store/modle/StoreModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/moudle/store/view/CarAppsStoreFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/utils/AppDownLoadUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/utils/ConstantUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/widget/DialogStandard.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/java/com/yesway/ycarstore/rdx/widget/TitleView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/res/layout/default_page.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/app/src/main/res/layout/fragment_car_store_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/java/com/yesway/basiclibrary/mvp/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/java/com/yesway/basiclibrary/mvp/BaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/java/com/yesway/basiclibrary/mvp/IBaseView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/java/com/yesway/basiclibrary/wiget/ErrorHintView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/java/com/yesway/basiclibrary/wiget/IStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/layout/layout_load_failure.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/layout/layout_load_loading.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/layout/layout_load_noorder.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/layout/layout_load_wifi_failure.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/values-en/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/values-zh/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/basiclibrary/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yesway-android-master/swipetoloadlayout/src/main/java/yesway/com/swipetoloadlayout/SwipeToLoadLayout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yhttp/app/src/main/java/com/yesway/yhttp/httpcallback/LvchPostCallBackLvch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/OkHttpRequestCall.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/base/OkBaseCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/callback/OkDownLoadCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/callback/PostCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/callback/StringCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/code/CodeNum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidComponent/yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/httplog/HttpLogUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ErrorPagedemo/app/app.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ErrorPagedemo/app/src/main/java/com/yesway/errorpagedemo/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ErrorPagedemo/app/src/main/java/com/yesway/widget/ErrorHintView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/acuraapisdk/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/home/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/home/HtmlActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/widget/RecyclerImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/version.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/MyFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/TestInDef.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/TestNullness.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/TestRes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/TestStringDef.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/annotationsexam02/Basic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/annotationsexam02/Item.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/annotationsexam02/ItemListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/annotationsexam02/ItemView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/annotationsexam02/SingleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/annotationsexam03/Basic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/annotations/annotationsexam03/TestBasic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_car.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../yhttp/app/src/main/java/com/yesway/yhttp/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../yhttp/app/src/main/java/com/yesway/yhttp/httpcallback/LvchOkCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../yhttp/app/src/main/java/com/yesway/yhttp/httpcallback/LvchPostCallBackLvch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/bean/BaseNtspheader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/callback/OkCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/callback/PostCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../yhttp/yeswayhttp/src/main/java/com/yesway/yeswayhttp/code/CodeNum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

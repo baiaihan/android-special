@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/MainApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/adapter/CounponListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/user/CouponActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/user/CouponListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/user/presenter/CouponPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/item_coupon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/expandabletextlib/src/main/java/com/ms/square/android/expandabletextview/ExpandableTextView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijyunyu/testmessenger/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijyunyu/testmessenger/MessengerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijyunyu/testmessenger/MyConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

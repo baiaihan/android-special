@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Coupon/app/src/main/java/com/baijunyu/couponrecyclerview/widget/TitleBar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Coupon/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Coupon/app/src/main/res/layout/title_bar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Coupon/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Coupon/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/acuraapisdk/src/main/java/com/yesway/acuraapisdk/HttpApis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/MainApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/adapter/CounponListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/adapter/MsgListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/adapter/UserModuleAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/bean/Module.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/jpush/JPushMessageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/actmsg/MsgListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/carlife/CarlifeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/carlife/CouponActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/carlife/CouponListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/carlife/presenter/CarlifeCouponPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/carlife/view/ICouponView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/drive/HistoryTrackActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/mirror/DVRSplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/user/CouponActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/user/CouponListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/user/UserFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/user/presenter/CouponPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/user/presenter/MessagePresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/activity_carlife_coupon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/fragment_coupon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/fragment_couponlist.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/item_coupon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/expandabletextlib/src/main/java/com/ms/square/android/expandabletextview/ExpandableTextView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testConstraintLayout/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testMessenger/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testMessenger/app/src/main/java/com/baijyunyu/testmessenger/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testMessenger/app/src/main/java/com/baijyunyu/testmessenger/MessengerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testMessenger/app/src/main/java/com/baijyunyu/testmessenger/MyConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/aidl/debug/com/baijunyu/testaidl/IBookManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/aidl/debug/com/baijunyu/testaidl/IOnNewBookArrivedListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/aidl/com/baijunyu/testaidl/Book.aidl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/aidl/com/baijunyu/testaidl/IBookManager.aidl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/aidl/com/baijunyu/testaidl/IOnNewBookArrivedListener.aidl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/testaidl/Book.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/testaidl/BookManagerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/testaidl/IOnNewBookArrivedListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/testaidl/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/src/main/java/com/baijunyu/testrecyclerview/DividerGridItemDecoration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/src/main/java/com/baijunyu/testrecyclerview/DividerItemDecoration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/src/main/java/com/baijunyu/testrecyclerview/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/src/main/java/com/baijunyu/testrecyclerview/MyRecycleViewAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/src/main/res/drawable/divider_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/src/main/res/layout/myrecycleview_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testrecyclerview/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

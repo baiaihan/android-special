@@ -1,0 +1,29 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+X
+(app\src\main\res\layout\fragment_car.xml,6\c\6c290d724ac94557bd0cadd902ff6c320afc188d
+|
+Lapp\src\main\java\com\baijunyu\annotations\annotationsexam02\SingleTest.java,6\e\6e7ad9f05dc69dc8f3f3ba91cb7c3fe4980f331f
+w
+Gapp\src\main\java\com\baijunyu\annotations\annotationsexam03\Basic.java,8\0\80f9e7ea093044e03d9d9d5feadd56460de0adbd
+{
+Kapp\src\main\java\com\baijunyu\annotations\annotationsexam03\TestBasic.java,b\8\b828bb67199d075f484059db68f0c398fcb43512
+
+Qapp\src\main\java\com\baijunyu\annotations\annotationsexam02\ItemListAdapter.java,1\6\167ee5f12b526117c78c7dc52b5d6d15f8f2bea2
+l
+<app\src\main\java\com\baijunyu\annotations\MainActivity.java,7\5\75c05d8cc4fc53004e3d0eb54adc51c4ad5fbc77
+j
+:app\src\main\java\com\baijunyu\annotations\MyFragment.java,6\9\69547319e532552422139d3bb379c266eceeeb3c
+@
+app\build.gradle,8\3\83d37b2761f0342c28dad5cd3a4bdc7a7b7d55d6
+o
+?app\src\main\java\com\baijunyu\annotations\MainApplication.java,e\6\e6ed536e1496d5f26fba2f4faf22208fcbcacf71
+ƒ
+Sapp\build\generated\source\apt\debug\com\baijunyu\annotations\MainApplication_.java,1\3\13c9d43e4e93ca0539157cc48c39db01ff1194a2
+€
+Papp\build\generated\source\apt\debug\com\baijunyu\annotations\MainActivity_.java,0\2\02ce5f939ae3a3c4311c02129b91668672cae9d0
+P
+ app\src\main\AndroidManifest.xml,a\c\ac6e0c942798c8a768fab2e3ab7e6a6b69b346f1
